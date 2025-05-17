@@ -1,5 +1,3 @@
-Aquí tienes un `README.md` que puedes usar como base para tu curso personal de Shell Scripting:
-
 ```markdown
 # 🐚 Curso de Shell Scripting desde Cero
 
