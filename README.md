@@ -1,4 +1,3 @@
-```markdown
 # 🐚 Curso de Shell Scripting desde Cero
 
 Este repositorio contiene un curso estructurado para aprender a programar en Shell (Bash), desde los fundamentos hasta proyectos prácticos. Ideal para automatizar tareas, administrar sistemas Linux/Unix y desarrollar herramientas ligeras.
