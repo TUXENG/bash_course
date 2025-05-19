@@ -1,6 +1,4 @@
-Aquí tienes un `README.md` que puedes usar como base para tu curso personal de Shell Scripting:
 
-```markdown
 # 🐚 Curso de Shell Scripting desde Cero
 
 Este repositorio contiene un curso estructurado para aprender a programar en Shell (Bash), desde los fundamentos hasta proyectos prácticos. Ideal para automatizar tareas, administrar sistemas Linux/Unix y desarrollar herramientas ligeras.
@@ -87,8 +85,7 @@ Integra todo lo aprendido en uno de los siguientes proyectos:
 
 ---
 
-> **¡Comienza hoy mismo!** Cada semana incluye teoría y práctica. Puedes usar este repositorio para guardar tus scripts, apuntes y avances.
+> **¡Comienza hoy mismo!** Cada semana incluye teoría y práctica. 
 
-```
 
 
