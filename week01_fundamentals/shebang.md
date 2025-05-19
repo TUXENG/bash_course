@@ -32,3 +32,5 @@ Y asegurate de dar permisos de ejecución.
 ```bash
 chmod +x your_scripy.sh
 ```
+
+- [Shebang Unix](https://en.wikipedia.org/wiki/Shebang_(Unix))
